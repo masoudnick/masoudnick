@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=masoudnick&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudnick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<a href="https://github.com/masoudnick">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masoudnick&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masoudnick&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
