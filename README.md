@@ -1,5 +1,5 @@
 # Hi there 👋
-Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Interested in DevOps & Security. Loves learning & teaching
+Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
 
 ## 💻 Technologies
 <p>
