@@ -11,9 +11,9 @@ Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
     <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss">
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
+   <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs">
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
    
 </p>
 
