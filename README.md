@@ -1,7 +1,7 @@
 # Hi there 👋
 Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=masoudnick&color=brightgreen)
 
 ## 💻 Technologies
 <p>
@@ -15,14 +15,12 @@ Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
    <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
-   
 </p>
 
 <p>
 <a href="https://github.com/masoudnick">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masoudnick&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masoudnick&layout=compact&langs_count=8&theme=algolia"/>
-   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=masoudnick&color=brightgreen)
 </a>
 </p>
 
