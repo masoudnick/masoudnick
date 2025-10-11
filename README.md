@@ -1,8 +1,6 @@
 # Hi there 👋
 Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=masoudnick&color=brightgreen)
-
 ## 💻 Technologies
 <p>
    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
