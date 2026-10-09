@@ -1,7 +1,7 @@
 # Hi there 👋
-Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
+I'm Masoud Nickparvar! I'm a Front-end Developer with 4 years of experience building responsive and user-friendly web applications. I work with React and Next.js and focus on writing clean and reusable code.
 
-## 💻 Technologies
+## Technologies
 <p>
    <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
    <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
@@ -10,9 +10,12 @@ Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
    <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass">
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
     <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss">
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
-   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+    <img src="https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react">
+    <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=next.js">
    <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+   <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php">
+   <img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
 </p>
 
 <p>
@@ -23,9 +26,7 @@ Hello, I'm Masoud Nickparvar! I'm a Front-end Developer(React). Loves learning
 </p>
 
 <p>
-👨‍💻 I’m currently 🔧 working on improving my skills<br>
-📫 How to reach me: ✉️ <a href="mailto:nickparvar.m@gmail.com">Email</a> or <a href="https://t.me/nkpr_ir">Telegram</a><br>
+👨‍💻 I’m currently working on improving my skills<br>
+📫 How to reach me: <a href="mailto:nickparvar.m@gmail.com">Email</a> or <a href="https://t.me/nkpr_ir">Telegram</a><br>
 🌱 I’m currently learning React and it's libraries<br>
-💬 Ask me anything. I would ❤️ love to discuss!<br>
-❤️ I like free and open source software
 </p>
